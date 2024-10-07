@@ -4,12 +4,12 @@ This project is an interactive **Emergency Patient Visit Report Dashboard**, whi
 
 ## Dashboard Overview
 
-- **Total Patients Visits**: Displays total visits (4,632), broken down into administrative and non-administrative appointments.
-- **Average Satisfaction**: Shows average patient satisfaction (5.45 out of 10).
-- **Average Wait Time**: The average waiting time for patients is 35.53 minutes.
-- **Referral by Department**: Most patients (2,726) were not referred to any department, but other common referrals include General Practice (924), Orthopedics (469), and Physiotherapy (164).
-- **Age Groups**: Majority of patients are adults (3,550), with significant numbers in childhood and teenage age groups as well.
-- **Gender Distribution**: Gender breakdown shows 51.5% male, 48.2% female, and 0.30% non-binary or declined to identify.
+- **Total Patients Visits**: Displays total visits (9,216), broken down into administrative and non-administrative appointments.
+- **Average Satisfaction**: Shows average patient satisfaction (5.47 out of 10).
+- **Average Wait Time**: The average waiting time for patients is 35.26 minutes.
+- **Referral by Department**: Most patients (5,400) were not referred to any department, but other common referrals include General Practice (1,840), Orthopedics (995), and Physiotherapy (276).
+- **Age Groups**: Majority of patients are adults (7,106), with significant numbers in childhood and teenage age groups as well.
+- **Gender Distribution**: Gender breakdown shows 51.1% male, 48.7% female, and 0.26% non-binary or declined to identify.
 - **Race and Wait Time**: The heatmap visualizes wait times across different age groups and patient race categories.
 - **Visits by Time**: The dashboard also highlights patient visits by year, month, and weekday, showing peak periods in patient flow.
 
@@ -25,4 +25,4 @@ This project is an interactive **Emergency Patient Visit Report Dashboard**, whi
 
 - **Power BI**: The dashboard was built using Power BI for data visualization.
   
-![Dashboard](Dashboard.png)
+![Dashboard](Heath_Dashboard.png)
