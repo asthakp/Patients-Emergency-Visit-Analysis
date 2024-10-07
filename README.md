@@ -24,4 +24,5 @@ This project is an interactive **Emergency Patient Visit Report Dashboard**, whi
 ## Tools Used
 
 - **Power BI**: The dashboard was built using Power BI for data visualization.
-
+  
+![Dashboard](Dashboard.png)
